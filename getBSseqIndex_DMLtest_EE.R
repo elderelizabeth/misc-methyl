@@ -6,7 +6,7 @@
 # Reason for the adapation:
 # I needed smoothed methylation levels of all groups to be comparable even if DMLs / DMRs are only identified between 2 groups at a time
 
-# PLEASE CITE ORIGINAL DEVELOPERS OF DSS : DOI: 10.18129/B9.bioc.DSS
+# PLEASE CITE ORIGINAL DEVELOPERS OF DSS, see DOI: 10.18129/B9.bioc.DSS
 
 
 # 3 groups
