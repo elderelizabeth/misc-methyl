@@ -8,7 +8,7 @@
 
 # PLEASE CITE ORIGINAL DEVELOPERS - DOI: 10.18129/B9.bioc.DSS
 
-# 3 groups
+# 3 groups (group3 is only used for the CpG filtering steps)
 
 getBSseqIndex_EE_3 <- function (sName, group1, group2, group3) 
 {
@@ -80,7 +80,7 @@ DMLtest_EE_3 <- function (BSobj, group1, group2, equal.disp = FALSE, smoothing =
   invisible(dmls)
 }
 
-# 4 groups
+# 4 groups (group3 and group4 are only used for the CpG filtering steps)
 
 getBSseqIndex_EE_4 <- function (sName, group1, group2, group3, group4) 
 {
