@@ -1,8 +1,8 @@
 # Adapted plotAlphaDistributionOneChr function from the MethylSeekR R package
 # Minor modifications were made to calculate and extract posterior mean of alpha values from multiple chromosomes at a time
 # The rest of the function works the same way as originally designed, see DOI: 10.18129/B9.bioc.MethylSeekR
-# Reason for the adapation:
-# The original functino only work for one chromosome at a time and only output a graph, not the values
+# Reason for the adaptation:
+# The original function only works for one chromosome at a time and only outputs a graph, not the values
 # I needed the actual values to conduct other analyses and to make my own figures
 
 # PLEASE CITE ORIGINAL DEVELOPERS - DOI: 10.18129/B9.bioc.MethylSeekR
