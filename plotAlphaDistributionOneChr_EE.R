@@ -41,6 +41,6 @@ library(MethylSeekR)
 
 # meth.gr : genomic ranges object containing methylated and total counts per CpG (same structure as original function)
 # chr.sel : vector of characters corresponding to the chromosomes e.g. c("chr1, "chr2", "chr3"...)
-# pmoa_distribution : named vector containing posterior mean of alpha values for each genomic bin (name of bin is chr_start_end)
+# pmoa_distribution : vector containing posterior mean of alpha values
 
 pmoa_distribution = plotAlphaDistributionOneChr_EE(m=meth.gr, chr.sel=chromosomes, pdfFilename = NULL, num.cores = 1, nCGbin = 101)
