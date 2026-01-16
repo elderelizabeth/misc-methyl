@@ -8,6 +8,9 @@
 
 # PLEASE CITE ORIGINAL DEVELOPERS - DOI: 10.18129/B9.bioc.DSS
 
+library(DSS)
+library(bsseq)
+
 # 3 groups (group3 is only used for the CpG filtering steps)
 
 getBSseqIndex_EE_3 <- function (sName, group1, group2, group3) 
