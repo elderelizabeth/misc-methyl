@@ -8,7 +8,6 @@
 
 # PLEASE CITE ORIGINAL DEVELOPERS OF DSS, see DOI: 10.18129/B9.bioc.DSS
 
-
 # 3 groups
 
 getBSseqIndex_EE_3 <- function (sName, group1, group2, group3) 
