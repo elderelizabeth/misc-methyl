@@ -3,7 +3,7 @@
 # Minor modifications were made to filter CpGs in the DMLtest function based on more than 2 groups
 # The rest of the functions work the same way as originally designed, see DOI: 10.18129/B9.bioc.DSS
 # getBSseqIndex_EE_3 and DMLtest_EE_3 for 3 groups, getBSseqIndex_EE_4 and DMLtest_EE_4 for 4 groups
-# Reason for the adapation:
+# Reason for the adaptation:
 # I needed smoothed methylation levels of all groups to be comparable even if DMLs / DMRs are only identified between 2 groups at a time
 
 # PLEASE CITE ORIGINAL DEVELOPERS - DOI: 10.18129/B9.bioc.DSS
