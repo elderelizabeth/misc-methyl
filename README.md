@@ -1,4 +1,4 @@
-Hello, DNA methylation enthusiasts! I'm Elizabeth, a scientific researcher based in Montreal, Quebec, Canada working in the fields of epigenetics and bioinformatics.
+Hello, DNA methylation enthusiasts! I'm Elizabeth, a research scientist based in Montreal, Quebec, Canada working in the fields of epigenetics and bioinformatics.
 
 This repository will collect miscellaneous functions, scripts, and workflow snippets for analyzing DNA methylation data that I created or adapted during various research projects.
 
